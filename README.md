@@ -36,12 +36,11 @@ Deploy en local
 - vite
 
 ### Features
-Personalmente me gusta contar que características mas importantes tiene el proyecto para tenerlas a ojo cada vez que tenga que revisasr de nuevo el proyecto.
+El proyecto trabaja con un data.js con los proyectos y redes sociales que permite modificar y/o agregar información mas rapido y se forma eficiente.
+Era importante que el proyecto se muestra simple con caracteristicas minimalistas y brutalista, sin perder calidad y a su vez que tenga cierta sofisticación.
 
 ### Setting up Dev
-
-Aquí hay una breve introducción sobre lo que debe hacer un desarrollador para comenzar a desarrollar
-el proyecto además:
+Modificar proyecto
 
 ```shell
 git clone https://github.com/raamgonzalez/portfolio-profile_RG.git
