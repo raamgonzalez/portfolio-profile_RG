@@ -29,7 +29,8 @@ Deploy en local
 
 - framer-motion
 - react
-- react-doc
+- react-dom
+- react-router-dom
 - sass
 - uuid
 - vite
