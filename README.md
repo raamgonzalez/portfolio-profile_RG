@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1ao5nPV9L7ocUhA7Ct_ojT6fAiTkq6dNJ/view?usp=sharing" width="30%" alt="Logo of the project" align="right">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25256.png" width="30%" alt="Logo of the project" align="right">
 
 # 🚀 Portfolio Personal
 > Proyecto personal para mostrar los trabajos que realizo
