@@ -111,12 +111,23 @@ export const data = {
       id: uuidv4(),
       name: "appclima",
       description:
-        "Aplicacion del clima realizado en Vue con Vite. Tiene sincronización con API de clima.",
+        "Aplicación del clima realizado en Vue con Vite. Tiene sincronización con API de clima.",
       soft: ["html", "css", "javascript", "vue", "vite"],
       media: "./media/projects/project_appclima.jpg",
       urlgit: "https://github.com/raamgonzalez/weather__app-vue",
       urldeploy:
         "https://raamgonzalez.github.io/weather__app-vue/",
+    },
+        {
+      id: uuidv4(),
+      name: "writeperminute",
+      description:
+        "Aplicación para practicar escritura",
+      soft: ["html", "css", "javascript", "react", "vite", "framer-motion"],
+      media: "./media/projects/project_writeperminute.jpg",
+      urlgit: "https://github.com/raamgonzalez/writeperminute",
+      urldeploy:
+        "https://wordsperminute.vercel.app/",
     },
   ],
 
