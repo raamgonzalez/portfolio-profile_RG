@@ -118,7 +118,7 @@ export const data = {
       urldeploy:
         "https://raamgonzalez.github.io/weather__app-vue/",
     },
-        {
+    {
       id: uuidv4(),
       name: "writeperminute",
       description:
@@ -128,6 +128,17 @@ export const data = {
       urlgit: "https://github.com/raamgonzalez/writeperminute",
       urldeploy:
         "https://wordsperminute.vercel.app/",
+    },
+    {
+      id: uuidv4(),
+      name: "gifshooot",
+      description:
+        "Buscador de gifs, trabaja con APi de Giphy",
+      soft: ["html", "css", "javascript", "react", "vite", "framer-motion"],
+      media: "./media/projects/project_gifshooot.jpg",
+      urlgit: "https://github.com/raamgonzalez/gifshoot",
+      urldeploy:
+        "https://gifshoot.vercel.app/",
     },
   ],
 
