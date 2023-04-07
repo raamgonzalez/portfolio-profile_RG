@@ -6,8 +6,6 @@
             margin: 2em 0 0 0;
         }
 
-        
-
         .card{
             padding: 1.31rem 0 1.31rem 0.8rem;
             background-color: $primary;
@@ -25,11 +23,12 @@
             background: #fff;
 
 
-  
-              &:hover:after {
+
+            &:hover:after {
                 width: 100%;
-              }
-              &:after {
+            }
+
+            &:after {
                 content: "";
                 position: absolute;
                 z-index: -1;
@@ -39,7 +38,7 @@
                 width: 0;
                 height: 100%;
                 background: #610a0a;
-              }
+            }
 
 
             @include flex(column, nowrap, space-between, none, 0);

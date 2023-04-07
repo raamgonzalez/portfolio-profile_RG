@@ -126,9 +126,12 @@ body {
   min-height  : 100vh;
   font-size   : $font-size-5;
   font-family : $font-base;
+  font-weight : bold;
+  // letter-spacing: 2px;
+  line-height: 2rem;
+  background-image: url('./media/back_01.svg');
   background-color: $primary;
-  background-image:  url('./media/back_01.svg');
-  color       : $text;
+  color       :rgb(226, 225, 225);
 
 
 

@@ -62,9 +62,14 @@
             text-align: left;
             font-size: $font-size-4;
             letter-spacing: 0rem;
-            font-weight: 300;
             line-height: 2rem;
             font-family: $font-base;
+            font-weight: 300;
+
+
+            span{
+                font-weight: 500;
+            }
         }
 
         &__p--margin{

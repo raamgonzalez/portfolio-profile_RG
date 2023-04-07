@@ -61,8 +61,8 @@ export const data = {
         "Web realizada con el fin de mostrar mis trabajos y desarrollo como programador",
       soft: ["html", "css", "javascript", "reactjs", "sass"],
       media: "./media/projects/project_portfolio.jpg",
-      urlgit: "https://github.com/raamgonzalez/portfolio_pp",
-      urldeploy: "https://portfolio-k6lvtsq3w-raamgonzalez.vercel.app/",
+      urlgit: "https://github.com/raamgonzalez/portfolio-profile_RG.git",
+      urldeploy: "https://portfolio-profile-rg.vercel.app",
     },
     {
       id: uuidv4(),
@@ -70,10 +70,10 @@ export const data = {
       description:
         "Blog de Arquitectura que contiene una consola de admin y cards con obras de arquitectura y arquitectos.",
       soft: ["html", "css", "python", "django"],
-      media: "./media/projects/test.jpg",
+      media: "./media/projects/project_test.jpg",
       urlgit: "https://github.com/raamgonzalez/Ecommerce-Tecnophil_Gonzalez",
       urldeploy:
-        "https://ecommerce-react-34850-5g6qf957z-raamgonzalez.vercel.app/",
+        "",
     },
     {
       id: uuidv4(),
