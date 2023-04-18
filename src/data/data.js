@@ -66,14 +66,14 @@ export const data = {
     },
     {
       id: uuidv4(),
-      name: "blog arquitectura",
+      name: "api met",
       description:
-        "Blog de Arquitectura que contiene una consola de admin y cards con obras de arquitectura y arquitectos.",
-      soft: ["html", "css", "python", "django"],
-      media: "./media/projects/project_test.jpg",
-      urlgit: "https://github.com/raamgonzalez/Ecommerce-Tecnophil_Gonzalez",
+        "Web que toma los datos de la API del museo Met de New York, proyecto realizado para practicar peticiones",
+      soft: ["html", "css", "javascript", "react", "tailwindcss"],
+      media: "./media/projects/project_apimet.jpg",
+      urlgit: "https://github.com/raamgonzalez/apiMET.git",
       urldeploy:
-        "",
+        "https://api-met.vercel.app/",
     },
     {
       id: uuidv4(),
@@ -139,6 +139,17 @@ export const data = {
       urlgit: "https://github.com/raamgonzalez/gifshoot",
       urldeploy:
         "https://gifshoot.vercel.app/",
+    },
+    {
+      id: uuidv4(),
+      name: "blog arquitectura",
+      description:
+        "Blog de Arquitectura que contiene una consola de admin y cards con obras de arquitectura y arquitectos.",
+      soft: ["html", "css", "python", "django"],
+      media: "./media/projects/project_test.jpg",
+      urlgit: "https://github.com/raamgonzalez/Ecommerce-Tecnophil_Gonzalez",
+      urldeploy:
+        "",
     },
   ],
 
