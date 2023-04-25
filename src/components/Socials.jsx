@@ -17,7 +17,7 @@ const Socials = () => {
       <li className='social__li social__li--noresponsive'>
       <motion.a
         className='social__a'
-        href="https://www.canva.com/design/DAFcYzCo_eI/9QW3c8EfMB1lt29Aqtu6lQ/view?utm_content=DAFcYzCo_eI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+        href="https://drive.google.com/file/d/1jqEqOgLF8sq29TvhIr75Gy3rDK3Gfl-o/view?usp=sharing"
         target="_blank" 
         rel='noreferrer'
         activeClassName="active"
