@@ -46,7 +46,7 @@
         font-weight: 300;
         font-size: $font-size-4;
 
-        @include flex(column, nowrap, none, none, 0.3em);
+        @include flex(column, nowrap, none, none, 0.5em);
 
         @include gl(){
             @include flex(column, nowrap, none, none, 0.5rem);

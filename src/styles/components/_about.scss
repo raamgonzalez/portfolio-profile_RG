@@ -1,5 +1,6 @@
 .about{
-    margin: 3em 0 0 0;
+    margin: 3em 0 3em 0;
+    width: 100%;
 
     @include flex(row, nowrap, none, none, 0);
 
@@ -34,7 +35,7 @@
         }
 
         &__img{
-            width: 190rem;
+            width: 120rem;
             height: 100%;
             image-orientation: center center;
             object-fit: cover;
@@ -58,6 +59,7 @@
             margin: 2em 0;
         }
 
+
         &__p{
             text-align: left;
             font-size: $font-size-4;
@@ -65,6 +67,8 @@
             line-height: 2rem;
             font-family: $font-base;
             font-weight: 300;
+            // padding: 1em;
+            width: 100%;
 
 
             span{
@@ -72,8 +76,14 @@
             }
         }
 
+        .list{
+            display: flex;
+            flex-direction: column;
+            gap: 1em;
+        }
+
         &__p--margin{
-            margin: 0 0 0 5em;
+            margin: 0 0 0 3em;
 
             @include dp(){
                 margin: 1em 0 0 0;

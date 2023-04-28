@@ -16,7 +16,7 @@ const Skills = () => {
       exit={{ opacity: 0 }}
       transition={{ duration: 0.3 }}
       className="skills">
-      <h4 className="skills__title">HABILIDADES</h4>
+      <h4 className="skills__title">SKILLS</h4>
       <motion.section 
         variants={scrollingSkills}
         initial="hidden"

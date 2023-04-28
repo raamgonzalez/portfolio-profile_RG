@@ -22,16 +22,18 @@ const Socials = () => {
         rel='noreferrer'
         activeClassName="active"
         whileTap={{scale: 0.90}}
-        whileHover={{scale: 1.05, border: "1px solid #F2F2F2", transition: "all 1s ease-in-out"}}
+        whileHover={{scale: 1.05, transition: "all 1s ease-in-out"}}
         >
-        CONTÁCTAME!
+        -&gt; RESUME   
       </motion.a>
       </li>
       <ul className="social__ul">
         {
           rrss.map(({id, name, href, state}) => (
             state ? 
-            <li className="social__li" key={id}><a className='social__a' href={href} target="_blank" rel='noreferrer' activeClassName="active">{name.toUpperCase()} ?</a></li>
+            <li className="social__li" key={id}><motion.a 
+            whileHover={{scale: 1.05, transition: "all 1s ease-in-out"}}
+            className='social__a' href={href} target="_blank" rel='noreferrer' activeClassName="active">{name.toUpperCase()} ?</motion.a></li>
             : null
             
           ))

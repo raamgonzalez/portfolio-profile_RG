@@ -7,7 +7,7 @@ const Projects = () => {
   return (
     <>
       <Helmet>
-        <title> Proyectos | RAAM</title> 
+        <title> Projects | RAAM</title> 
         <meta name='description' content='Información sobre los proyectos de Ramsés'/>
       </Helmet>
       <ProjectContainer/>

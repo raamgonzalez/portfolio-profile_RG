@@ -9,11 +9,11 @@ const SkillsSoft = () => {
       exit={{ opacity: 0 }}
       transition={{ duration: 0.3 }}
       className="skills__section softskills">
-      <h5 className="skills__h5 softskills">HABILIDADES BLANDAS</h5>
+      <h5 className="skills__h5 softskills">SKILLS SOFT</h5>
       <section className="skills__text">
-        <span className="skills__span"><span className='skills__span--bold'>+</span> <span className='skills__span--bold'>Comunicación</span> efectiva, colaboré en coordinación de proyectos</span>
-        <span className="skills__span"><span className='skills__span--bold'>+</span> Trabajo en <span className='skills__span--bold'>equipo</span>, interactué en equipos de diseño y proyecto unificados</span>
-        <span className="skills__span"><span className='skills__span--bold'>+</span> <span className='skills__span--bold'>Resolución</span> de problemas, participé en mesas participativas en los barrios</span>
+        <span className="skills__span"><span className='skills__span--bold'>+</span> <span className='skills__span--bold'>Communication</span>, collaborated in project coordination.</span>
+        <span className="skills__span"><span className='skills__span--bold'>+</span> <span className='skills__span--bold'>Teamwork</span>, interacted in unified design and project teams.</span>
+        <span className="skills__span"><span className='skills__span--bold'>+</span> <span className='skills__span--bold'>Problem-solving</span>, participated in participatory meetings in the neighborhoods.</span>
       </section>
     </motion.section>
   );

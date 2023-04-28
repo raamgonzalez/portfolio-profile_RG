@@ -7,7 +7,7 @@ const Softs = () => {
   return (
     <>
       <Helmet>
-        <title> Habilidades | RAAM</title> 
+        <title> Skills | RAAM</title> 
         <meta name='description' content='Información sobre habilidades de Ramsés'/>
       </Helmet>
       <Skills/>

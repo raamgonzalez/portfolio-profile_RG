@@ -17,7 +17,7 @@ const ProjectContainer = () => {
       transition={{ duration: 0.3 }}
       className='projects__section'>
       <section className="projects">
-        <h4 className="projects__title">PROYECTOS</h4>
+        <h4 className="projects__title">PROJECTS</h4>
       </section>
       <section className='projects__container'>
       {

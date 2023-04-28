@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title> Acerca | RAAM</title> 
+        <title> About | RAAM</title> 
         <meta name='description' content='Información acerca de Ramsés'/>
       </Helmet>
       <About/>

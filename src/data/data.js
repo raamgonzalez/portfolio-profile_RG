@@ -48,7 +48,8 @@ export const data = {
       id: uuidv4(),
       name: "tienda de tecnología",
       description:
-        "Tienda de venta de productos tecnologicos, aproveche para incorporar mock async",
+        "Online store selling technological products, took advantage of incorporating mock async.",
+        // "Tienda de venta de productos tecnologicos, aproveche para incorporar mock async",
       soft: ["html", "css", "javascript", "reactjs", "firebase", "axios", "sass"],
       media: "./media/projects/project_tecnophil.jpg",
       urlgit: "https://github.com/raamgonzalez/Ecommerce-Tecnophil_Gonzalez",
@@ -58,7 +59,8 @@ export const data = {
       id: uuidv4(),
       name: "website portfolio",
       description:
-        "Web realizada con el fin de mostrar mis trabajos y desarrollo como programador",
+        "Website created to showcase my work and development as a programmer.",
+        // "Web realizada con el fin de mostrar mis trabajos y desarrollo como programador",
       soft: ["html", "css", "javascript", "reactjs", "sass"],
       media: "./media/projects/project_portfolio.jpg",
       urlgit: "https://github.com/raamgonzalez/portfolio-profile_RG.git",
@@ -68,7 +70,8 @@ export const data = {
       id: uuidv4(),
       name: "api met",
       description:
-        "Web que toma los datos de la API del museo Met de New York, proyecto realizado para practicar peticiones",
+        "Website that retrieves data from the API of the Metropolitan Museum of Art in New York. Project built for practicing API requests.",
+        // "Web que toma los datos de la API del museo Met de New York, proyecto realizado para practicar peticiones",
       soft: ["html", "css", "javascript", "react", "tailwindcss"],
       media: "./media/projects/project_apimet.jpg",
       urlgit: "https://github.com/raamgonzalez/apiMET.git",
@@ -79,7 +82,7 @@ export const data = {
       id: uuidv4(),
       name: "landing-page lamparas",
       description:
-        "Pagina web realizada para curso de programación fullstack python.",
+        "Website created for a full-stack Python programming course.",
       soft: ["html", "css"],
       media: "./media/projects/project_regulux.jpg",
       urlgit:
@@ -90,7 +93,8 @@ export const data = {
       id: uuidv4(),
       name: "tienda de camiseta",
       description:
-        "Web para tienda de camisetas de futbol realizada en javascript vanilla",
+        "Football shirt store website built with vanilla JavaScript.",
+        // "Web para tienda de camisetas de futbol realizada en javascript vanilla",
       soft: ["html", "css", "javascript"],
       media: "./media/projects/project_camisetasdprimera.jpg",
       urlgit: "https://github.com/raamgonzalez/Ecommerce-Camisetas_Javascript",
@@ -100,7 +104,8 @@ export const data = {
       id: uuidv4(),
       name: "todolist",
       description:
-        "Todolist realizado en Vue con Vite. Trabaja como una app para seguir tareas",
+        "Todo list application built with Vue and Vite. Works as an app to track tasks.",
+        // "Todolist realizado en Vue con Vite. Trabaja como una app para seguir tareas",
       soft: ["html", "css", "javascript", "vue", "vite"],
       media: "./media/projects/project_todolist.jpg",
       urlgit: "https://github.com/raamgonzalez/Todolist_vue",
@@ -111,7 +116,8 @@ export const data = {
       id: uuidv4(),
       name: "appclima",
       description:
-        "Aplicación del clima realizado en Vue con Vite. Tiene sincronización con API de clima.",
+        "Weather application built with Vue and Vite. It has synchronization with a weather API.",
+        // "Aplicación del clima realizado en Vue con Vite. Tiene sincronización con API de clima.",
       soft: ["html", "css", "javascript", "vue", "vite"],
       media: "./media/projects/project_appclima.jpg",
       urlgit: "https://github.com/raamgonzalez/weather__app-vue",
@@ -122,7 +128,8 @@ export const data = {
       id: uuidv4(),
       name: "writeperminute",
       description:
-        "Aplicación para practicar escritura",
+        "Application for practicing writing.",
+        // "Aplicación para practicar escritura",
       soft: ["html", "css", "javascript", "react", "vite", "framer-motion"],
       media: "./media/projects/project_writeperminute.jpg",
       urlgit: "https://github.com/raamgonzalez/writeperminute",
@@ -133,7 +140,8 @@ export const data = {
       id: uuidv4(),
       name: "gifshooot",
       description:
-        "Buscador de gifs, trabaja con APi de Giphy",
+        "GIF search engine that works with the Giphy API.",
+        // "Buscador de gifs, trabaja con APi de Giphy",
       soft: ["html", "css", "javascript", "react", "vite", "framer-motion"],
       media: "./media/projects/project_gifshooot.jpg",
       urlgit: "https://github.com/raamgonzalez/gifshoot",
@@ -144,7 +152,8 @@ export const data = {
       id: uuidv4(),
       name: "blog arquitectura",
       description:
-        "Blog de Arquitectura que contiene una consola de admin y cards con obras de arquitectura y arquitectos.",
+        "Architecture blog that includes an admin console and cards featuring architectural works and architects.",
+      // "Blog de Arquitectura que contiene una consola de admin y cards con obras de arquitectura y arquitectos.",
       soft: ["html", "css", "python", "django"],
       media: "./media/projects/project_test.jpg",
       urlgit: "https://github.com/raamgonzalez/Ecommerce-Tecnophil_Gonzalez",
