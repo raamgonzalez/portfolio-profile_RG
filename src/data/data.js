@@ -160,6 +160,17 @@ export const data = {
       urldeploy:
         "",
     },
+    {
+      id: uuidv4(),
+      name: "movmovies",
+      description:
+        "Movie search engine that works with API",
+      soft: ["html", "css", "react", "tailwindcss"],
+      media: "./media/projects/project_movmovies.jpg",
+      urlgit: "https://github.com/raamgonzalez/movmovies.git",
+      urldeploy:
+        "https://movmovies.vercel.app/",
+    },
   ],
 
   softwares: [
