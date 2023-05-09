@@ -17,7 +17,7 @@ const Socials = () => {
       <li className='social__li social__li--noresponsive'>
       <motion.a
         className='social__a'
-        href="https://drive.google.com/file/d/1jqEqOgLF8sq29TvhIr75Gy3rDK3Gfl-o/view?usp=sharing"
+        href="https://drive.google.com/drive/folders/1gq0y2bh9FNEKOcVpbHzWSxbL9VTl4Z4d?usp=share_link"
         target="_blank" 
         rel='noreferrer'
         activeClassName="active"
