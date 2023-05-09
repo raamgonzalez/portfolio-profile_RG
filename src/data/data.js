@@ -54,6 +54,7 @@ export const data = {
       media: "./media/projects/project_tecnophil.jpg",
       urlgit: "https://github.com/raamgonzalez/Ecommerce-Tecnophil_Gonzalez",
       urldeploy: "https://ecommerce-react-34850.vercel.app/",
+      state: true,
     },
     {
       id: uuidv4(),
@@ -65,18 +66,20 @@ export const data = {
       media: "./media/projects/project_portfolio.jpg",
       urlgit: "https://github.com/raamgonzalez/portfolio-profile_RG.git",
       urldeploy: "https://portfolio-profile-rg.vercel.app",
+      state: true,
     },
     {
       id: uuidv4(),
       name: "api met",
       description:
-        "Website that retrieves data from the API of the Metropolitan Museum of Art in New York. Project built for practicing API requests.",
-        // "Web que toma los datos de la API del museo Met de New York, proyecto realizado para practicar peticiones",
+        "Website that retrieves data from the API of the Metropolitan Mstateum of, Art in New York. Project built for practicing API requests.",
+        // "Web que toma los datos de la API del mstateo Met, de New York, proyecto realizado para practicar peticiones",
       soft: ["html", "css", "javascript", "react", "tailwindcss"],
       media: "./media/projects/project_apimet.jpg",
       urlgit: "https://github.com/raamgonzalez/apiMET.git",
       urldeploy:
         "https://api-met.vercel.app/",
+      state: true,
     },
     {
       id: uuidv4(),
@@ -88,6 +91,7 @@ export const data = {
       urlgit:
         "https://github.com/FerBarreyro/TPO-Desarrollo-WEB-Equipo-14-Comisi-n-22523.github.io",
       urldeploy: "https://reguluxlamp.netlify.app/",
+      state: true,
     },
     {
       id: uuidv4(),
@@ -99,6 +103,7 @@ export const data = {
       media: "./media/projects/project_camisetasdprimera.jpg",
       urlgit: "https://github.com/raamgonzalez/Ecommerce-Camisetas_Javascript",
       urldeploy: "https://ecommerce-camisetasde1.netlify.app/",
+      state: true,
     },
     {
       id: uuidv4(),
@@ -111,6 +116,7 @@ export const data = {
       urlgit: "https://github.com/raamgonzalez/Todolist_vue",
       urldeploy:
         "https://raamgonzalez.github.io/Todolist_vue/",
+      state: false,
     },
     {
       id: uuidv4(),
@@ -123,6 +129,7 @@ export const data = {
       urlgit: "https://github.com/raamgonzalez/weather__app-vue",
       urldeploy:
         "https://raamgonzalez.github.io/weather__app-vue/",
+      state: true,
     },
     {
       id: uuidv4(),
@@ -135,6 +142,7 @@ export const data = {
       urlgit: "https://github.com/raamgonzalez/writeperminute",
       urldeploy:
         "https://wordsperminute.vercel.app/",
+      state: true,
     },
     {
       id: uuidv4(),
@@ -147,6 +155,7 @@ export const data = {
       urlgit: "https://github.com/raamgonzalez/gifshoot",
       urldeploy:
         "https://gifshoot.vercel.app/",
+      state: true,
     },
     {
       id: uuidv4(),
@@ -159,6 +168,7 @@ export const data = {
       urlgit: "https://github.com/raamgonzalez/Ecommerce-Tecnophil_Gonzalez",
       urldeploy:
         "",
+      state: false,
     },
     {
       id: uuidv4(),
@@ -170,6 +180,19 @@ export const data = {
       urlgit: "https://github.com/raamgonzalez/movmovies.git",
       urldeploy:
         "https://movmovies.vercel.app/",
+      state: true,
+    },
+    {
+      id: uuidv4(),
+      name: "timetracking",
+      description:
+        "Time tracking app, front end mentor challenge",
+      soft: ["html", "css", "react", "tailwindcss", "nextjs"],
+      media: "./media/projects/project_timetracking.jpg",
+      urlgit: "https://github.com/raamgonzalez/timetracking-mentor.git",
+      urldeploy:
+        "https://timetracking-mentor.vercel.app/",
+      state: true,
     },
   ],
 

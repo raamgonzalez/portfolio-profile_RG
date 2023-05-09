@@ -22,7 +22,9 @@ const ProjectContainer = () => {
       <section className='projects__container'>
       {
         projects.map((project) => (
-          <Project key={project.id} project={project}/>
+          project.state ? 
+          (<Project key={project.id} project={project}/>)
+          :null
         ))
       }
       </section>
